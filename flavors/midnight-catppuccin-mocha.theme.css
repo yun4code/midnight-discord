@@ -100,3 +100,17 @@
 	background-color: transparent !important;
 	background-size: cover;
 }
+
+/***********************************
+ * YUN CHANGES
+ ***********************************/
+
+/* remove hover animation */
+.wrapper_d8bfb3:hover .link_d8bfb3,
+.side_a0 .item_a0:hover {
+	margin-left: 0;
+}
+.container_e9f61e:hover,
+.channel_c91bad:hover {
+	margin-left: 0;
+}
